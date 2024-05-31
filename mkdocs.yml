@@ -1,0 +1,7 @@
+site_name: "node-app-2 Docs"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
