@@ -12,7 +12,6 @@ metadata:
       url: https://github.com/Knauf-Group/cst-knauf-idp/issues
   annotations:
     github.com/project-slug: smajlovic-info/node-app-2
-    backstage.io/kubernetes-id: ct-prodigy-dam-to-epim
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
